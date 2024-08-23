@@ -1,0 +1,226 @@
+ body{
+    font-family:  "Space Mono", monospace;
+ }
+ .nav{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    font-size: 20px;
+   
+    margin-left: 80px;
+    color: white;
+ }
+ #nav1{
+    font-size: 27px;
+    font-weight: 500;
+    margin-right: 30px;
+    margin-top: -10px;
+ }
+ #nav2{
+    font-size: 18px;
+    margin-left: 40px;
+ }
+ .headcontent{
+    text-align: center;
+    margin-top: 270px;
+    color: white;
+ }
+ .headcontent h6{
+    font-size: 17px;
+    font-weight: 550;
+ }
+ .headcontent h1{
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 35px;
+ }
+ .but1{
+    margin-top: 40px;
+    background-color :white;
+    color: rgba(0, 0, 0, 0.994);
+    border-radius: 20px;
+    padding: 15px;
+    padding-right: 50px;
+ }
+ .but2{
+    background-color: rgba(18, 195, 18, 0.768);
+    color: white;
+    padding: 15px;
+    border-radius: 15px;
+
+ }
+ .headpic{
+   background-image: linear-gradient(rgba(0, 140, 255, 0.766),rgba(0, 183, 255, 0.595)), url(home-bg.jpg);
+
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+ }
+ .laptop{
+   margin-top: 100px;
+   display: flex;
+ }
+ .lap-content{
+   margin-left: 50px;
+ }
+ .lap-content h1{
+   font-size: 45px;
+   font-weight: 400;
+   margin-left: 38px;
+ }
+ .menu{
+   list-style: none;
+   display: flex;
+   gap: 50px;
+   margin-top: 30px;
+   font-size: 20px;
+   font-weight: 500;
+ }
+ .lap-content h2{
+   margin-top: 50px;
+   margin-left: 40px;
+   font-size: 30px;
+   font-weight: 300;
+   color: rgba(0, 0, 0, 0.772);
+ }
+ .lap-content p{
+   margin-left: 40px;
+   margin-top: 10px;
+   font-size: 16px;
+   font-weight: 500;
+ }
+ #under{
+   color: green;
+ }
+ .grid-section{
+   display: flex;
+  justify-content: center;
+   margin-top: 150px;
+ }
+ #headpro{
+   text-align: center;
+   margin-top:150px;
+   font-size: 40px;
+   font-weight: 300;
+   color: rgba(0, 0, 0, 0.738);
+ }
+ .grid-section h1{
+   font-size: 35px;
+   font-weight: 100;
+   color: rgba(0, 0, 0, 0.818);
+   
+ }
+ .grid-section h3{
+   font-size: 20px;
+   font-weight: 300;
+   margin-top: 5px;
+ }
+ .grid-section p{
+   margin-top: 10px;
+   font-size: 16px;
+   font-weight: 500;
+   color: rgba(0, 0, 0, 0.748);
+ }
+ #jack1{
+   font-size: 40px;
+   font-weight: 200;
+   color: rgba(0, 0, 0, 0.818);
+  
+
+ }
+ .team-img{
+   background-color: rgba(245, 245, 245, 0.632);
+ }
+ .team1{
+   background-color: white;
+ }
+ .team2{
+   background-color: white;
+ }
+ .team3{
+   background-color: white;
+ }
+ .plan{
+   margin-top: 100px;
+   font-size: 30px;
+   text-align: center;
+   font-weight: 20px;
+  color: rgba(0, 0, 0, 0.79);
+ }
+ .box-content{
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 45px;
+   background-color: white;
+ }
+ .box-content h2{
+   font-size: 32px;
+   font-weight: 200;
+   margin-bottom: 10px;
+ }
+ .box-content h4{
+   margin-top: 14px;
+   font-size: 16px;
+   font-weight: 600;
+   color: gray;
+ }
+ .box-content h1{
+   margin-top: 20px;
+ }
+ .box-content h1 button{
+   background-color:#29ca8e;
+   color: white;
+   padding: 2px;
+   border-radius: 15px;
+   padding-left: 18px;
+   padding-right: 18px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+ }
+ .box-content hr{
+   margin-top: 15px;
+ }
+ .box-content{
+   background-color: rgba(245, 245, 245, 0.632) ;
+ }
+ .headwrite{
+   margin-top: 150px;
+   text-align: center;
+   font-size: 30px;
+   font-weight: lighter;
+ }
+ .flex{
+   display: flex;
+   justify-content: space-evenly;
+   margin-top: 40px;
+ }
+ #send{
+   background-color: black;
+   color: white;
+
+   padding-left: 60px;
+   padding-right: 60px;
+   border-radius: 15px;
+   padding-top: 15px;
+   padding-bottom: 15px;
+ }
+ .message1 h2{
+   margin-top: 50px;
+   margin-left: 150px;
+   color: gray;
+ }
+ .flex h3{
+   color: gray;
+ }
+.footer p{
+   margin-top: 100px;
+   margin-left: 200px;
+   font-size: 19px;
+   color: gray;
+   margin-bottom: 120px;
+}
+#line3{
+   margin-left: 150px;
+   margin-right: 200px;
+}
